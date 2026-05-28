@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Eu sou o George Dias, estou iniciando a carreira como programador, atualmente estou aprendendendo e criando projetos com HTML, CSS e começando os estudos em JavaScript e React.
+
+
+
+
+
 <!--
 **GeorgeDias08/GeorgeDias08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
