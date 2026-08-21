@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Eu sou o George Dias, estou iniciando a carreira como programador, já tenho alguns projetos criando com:
+Eu sou o George Dias, estou iniciando a carreira como programador, já tenho alguns projetos criados com:
 <br>
 <br>
  - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html"/>
